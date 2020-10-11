@@ -1,4 +1,4 @@
-# vnjson-alias
+# vnjson-character
 Character handler for vnjson.js
 
 
